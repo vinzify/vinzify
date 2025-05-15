@@ -71,6 +71,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/i18next-31013e?logo=i18next&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Framer%20Motion-31013e?logo=framer&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Swiper-31013e?logo=swiper&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-31013e?logo=python&logoColor=fff" />
 </p>
 
 ### 🧑‍💻 Backend & Blockchain
