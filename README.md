@@ -22,7 +22,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 ## 🚀 Social & Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vincenzoromeo"><img src="https://img.shields.io/badge/LinkedIn-31013e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vincenzoromeo"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-31013e?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://github.com/twinalien"><img src="https://img.shields.io/badge/GitHub-31013e?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/vinzify"><img src="https://img.shields.io/badge/X%20(Twitter)-31013e?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://t.me/alienzcc"><img src="https://img.shields.io/badge/Telegram-31013e?style=for-the-badge&logo=telegram&logoColor=white" /></a>
