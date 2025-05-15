@@ -7,13 +7,7 @@
 
 # Hi, I'm Vinz 👽
 
-> Commitment to user-centric design. From the charming streets of Sicily to London and then in the creative hub of Amsterdam, my journey is a blend of culture and innovation.
-
-I specialize in bringing digital concepts to life. My expertise shines in developing engaging graphics and frontend for websites, apps, and games, ensuring each project is not just visually stunning but also intuitively navigable. My work in the cryptocurrency and DeFi spaces showcases my ability to adapt and thrive in rapidly evolving sectors.
-
-With a skill set that spans UI-UX design, wireframing, to animation, brand identity and frontend development, my versatility is unmatched. I'm a lifelong learner, currently exploring the artistic depths of AI, demonstrating my dedication to evolving with the ever-changing design landscape.
-
-My passion and expertise infuse every project I take on, ensuring that digital interactions are not only functional but also unforgettable.
+> Creative technologist blending design, code, and AI. From Sicily to Amsterdam, I craft unforgettable digital experiences—web, apps, games, and brands. Always learning, always building. 
 
 [🌐 vcreative.it](https://vcreative.it)
 
@@ -28,6 +22,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <a href="https://t.me/alienzcc"><img src="https://custom-icon-badges.demolab.com/badge/Telegram-31013e?logo=telegram-white&logoColor=fff" /></a>
   <a href="https://be.net/twinalien"><img src="https://custom-icon-badges.demolab.com/badge/Behance-31013e?logo=behance-white&logoColor=fff" /></a>
   <a href="https://vcreative.it/portfolio"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio%20Frontend-31013e?logo=internet-explorer-white&logoColor=fff" /></a>
+  <a href="mailto:vinz@vcreative.it"><img src="https://custom-icon-badges.demolab.com/badge/Email-31013e?logo=gmail&logoColor=fff" /></a>
 </p>
 
 ---
@@ -119,6 +114,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/ComfyUI-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/A1111-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Flux%20Gym-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Stable%20Diffusion-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Cursor-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Bolt-31013e?logoColor=fff" />
