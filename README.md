@@ -64,27 +64,23 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 ### 💻 Frontend & Web
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-31013e?logo=html5&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-31013e?logo=css3&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-31013e?logo=javascript&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-31013e?logo=typescript&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js%2015-31013e?logo=nextdotjs&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React%2019-31013e?logo=react&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React%2018-31013e?logo=react&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/React-31013e?logo=react&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-31013e?logo=nextdotjs&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-31013e?logo=typescript&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-31013e?logo=tailwindcss&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Vite-31013e?logo=vite&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React%20Router-31013e?logo=reactrouter&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/RainbowKit-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Wagmi-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Radix%20UI-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/React%20Query-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Zustand-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Zod-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vite-31013e?logo=vite&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React%20Router-31013e?logo=reactrouter&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/i18next-31013e?logo=i18next&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Framer%20Motion-31013e?logo=framer&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Swiper-31013e?logo=swiper&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/WordPress-31013e?logo=wordpress&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Prestashop-31013e?logo=prestashop&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Joomla-31013e?logo=joomla&logoColor=fff" />
 </p>
 
 ### 🧑‍💻 Backend & Blockchain
@@ -110,6 +106,28 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://custom-icon-badges.demolab.com/badge/Rate%20Limit-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/CORS-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/dotenv-31013e?logoColor=fff" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/React%20Native-31013e?logo=react&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Expo-31013e?logo=expo&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-31013e?logo=typescript&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Expo%20Router-31013e?logo=expo&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AsyncStorage-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Reanimated-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Gesture%20Handler-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Notifications-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/EAS-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React-31013e?logo=react&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vite-31013e?logo=vite&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-31013e?logo=tailwindcss&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-31013e?logo=nodedotjs&logoColor=fff" />
+</p>
+
+### 🤖 AI
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/AI-31013e?logoColor=fff" />
 </p>
 
 ---
