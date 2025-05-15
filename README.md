@@ -26,7 +26,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <a href="https://github.com/twinalien"><img src="https://img.shields.io/badge/GitHub-31013e?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/vinzify"><img src="https://img.shields.io/badge/X%20(Twitter)-31013e?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://t.me/alienzcc"><img src="https://img.shields.io/badge/Telegram-31013e?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://be.net/twinalien"><img src="https://img.shields.io/badge/Behance%20-%20UX/UI%20Design%20Portfolio-31013e?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://be.net/twinalien"><img src="https://img.shields.io/badge/Behance-31013e?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://vcreative.it/portfolio"><img src="https://img.shields.io/badge/Frontend%20Portfolio-31013e?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
 </p>
 
