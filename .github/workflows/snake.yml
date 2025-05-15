@@ -14,6 +14,9 @@ jobs:
           github_user_name: twinalien
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: '#FF3600'
+          color_dots: '#efedeb,#dae5f1,#FF3600,#fff'
+          color_bg: '#31013e'
       - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
