@@ -9,7 +9,7 @@
 
 > Creative technologist blending design, code, and AI. From Sicily to Amsterdam, I craft unforgettable digital experiences—web, apps, games, and brands. Always learning, always building. 
 
-[🌐 vcreative.it](https://vcreative.it)
+[🌐 vcreative.it](https://vcreative.it) &nbsp;|&nbsp; [✉️ vinz@vcreative.it](mailto:vinz@vcreative.it)
 
 ---
 
