@@ -22,12 +22,12 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 ## 🚀 Social & Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vincenzoromeo"><img src="https://img.shields.io/badge/LinkedIn-FF3600?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/twinalien"><img src="https://img.shields.io/badge/GitHub-31013e?style=for-the-badge&logo=github&logoColor=FF3600" /></a>
-  <a href="https://x.com/vinzify"><img src="https://img.shields.io/badge/Twitter-FF3600?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/alienzcc"><img src="https://img.shields.io/badge/Telegram-31013e?style=for-the-badge&logo=telegram&logoColor=FF3600" /></a>
-  <a href="https://be.net/twinalien"><img src="https://img.shields.io/badge/Behance-FF3600?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://vcreative.it/portfolio"><img src="https://img.shields.io/badge/Portfolio-31013e?style=for-the-badge&logo=internet-explorer&logoColor=FF3600" /></a>
+  <a href="https://www.linkedin.com/in/vincenzoromeo"><img src="https://img.shields.io/badge/LinkedIn-31013e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/twinalien"><img src="https://img.shields.io/badge/GitHub-31013e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/vinzify"><img src="https://img.shields.io/badge/Twitter-31013e?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/alienzcc"><img src="https://img.shields.io/badge/Telegram-31013e?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://be.net/twinalien"><img src="https://img.shields.io/badge/Behance-31013e?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://vcreative.it/portfolio"><img src="https://img.shields.io/badge/Portfolio-31013e?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
 </p>
 
 ---
@@ -36,53 +36,53 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 ### 🎨 Design & Creative
 <p>
-  <img src="https://img.shields.io/badge/UI/UX-FF3600?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prototyping-31013e?style=flat-square&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-FF3600?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-31013e?style=flat-square&logo=adobeillustrator&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF3600?style=flat-square&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-31013e?style=flat-square&logo=figma&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Cinema%204D-FF3600?style=flat-square&logo=maxon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-31013e?style=flat-square&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Rive.app-FF3600?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spline-31013e?style=flat-square&logoColor=FF3600" />
+  <img src="https://img.shields.io/badge/UI/UX-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prototyping-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31013e?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-31013e?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-31013e?style=flat-square&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-31013e?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cinema%204D-31013e?style=flat-square&logo=maxon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rive.app-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spline-31013e?style=flat-square&logoColor=white" />
 </p>
 
 ### 💻 Frontend & Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-FF3600?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-31013e?style=flat-square&logo=css3&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/JavaScript-FF3600?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-31013e?style=flat-square&logo=typescript&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/React-FF3600?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-31013e?style=flat-square&logo=next.js&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-FF3600?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-31013e?style=flat-square&logo=framer&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Swiper-FF3600?style=flat-square&logo=swiper&logoColor=white" />
-  <img src="https://img.shields.io/badge/i18next-31013e?style=flat-square&logo=i18next&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/WordPress-FF3600?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prestashop-31013e?style=flat-square&logo=prestashop&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Joomla-FF3600?style=flat-square&logo=joomla&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-31013e?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-31013e?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-31013e?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-31013e?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-31013e?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-31013e?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-31013e?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-31013e?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swiper-31013e?style=flat-square&logo=swiper&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18next-31013e?style=flat-square&logo=i18next&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-31013e?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prestashop-31013e?style=flat-square&logo=prestashop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joomla-31013e?style=flat-square&logo=joomla&logoColor=white" />
 </p>
 
 ### 🧑‍💻 Backend & Blockchain
 <p>
-  <img src="https://img.shields.io/badge/Node.js-31013e?style=flat-square&logo=nodedotjs&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Express-FF3600?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-31013e?style=flat-square&logo=redis&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Ethers.js-FF3600?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana%20Web3.js-31013e?style=flat-square&logo=solana&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Wagmi-FF3600?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Viem-31013e?style=flat-square&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/RainbowKit-FF3600?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix%20UI-31013e?style=flat-square&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/React%20Query-FF3600?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-31013e?style=flat-square&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Zod-FF3600?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-31013e?style=flat-square&logo=axios&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/QR%20Code-FF3600?style=flat-square&logo=qrcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-31013e?style=flat-square&logo=vercel&logoColor=FF3600" />
-  <img src="https://img.shields.io/badge/Render-FF3600?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-31013e?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-31013e?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-31013e?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-31013e?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana%20Web3.js-31013e?style=flat-square&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wagmi-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Viem-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RainbowKit-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix%20UI-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-31013e?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-31013e?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/QR%20Code-31013e?style=flat-square&logo=qrcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-31013e?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-31013e?style=flat-square&logo=render&logoColor=white" />
 </p>
 
 ---
