@@ -53,6 +53,13 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://custom-icon-badges.demolab.com/badge/Spline-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Packaging-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Creative%20Strategy-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Sketch-31013e?logo=sketch&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/InVision-31013e?logo=invision&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Affinity%20Designer-31013e?logo=affinitydesigner&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Figma-31013e?logo=figma&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Figma%20Jam-31013e?logo=figma&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Procreate-31013e?logo=procreate&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Miro-31013e?logo=miro&logoColor=fff" />
 </p>
 
 ### 💻 Frontend & Web
