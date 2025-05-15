@@ -117,9 +117,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 ## 📊 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twinalien&show_icons=true&theme=radical" alt="twinalien's GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=twinalien&theme=radical" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twinalien&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 <!-- Snake Game Contribution Graph -->
@@ -129,18 +127,10 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 ---
 
-## ✨ Fun & Personal
-
-- 🧠 **Currently learning:** Artistic AI, new frontend frameworks, and more.
-- 💬 **Fun fact:** _[Add your fun fact here]_ 
-- 📝 **Quote:** _[Add your favorite quote here]_ 
-
----
-
 > _"Design is intelligence made visible."_ – Alina Wheeler
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <a href="https://vcreative.it">twinalien</a></sub>
+  <sub>Vinzified with ❤️ by <a href="https://vcreative.it">Vinz</a></sub>
 </p> 
