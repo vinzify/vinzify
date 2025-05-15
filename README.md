@@ -61,7 +61,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 ### 💻 Frontend & Web
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js%2015-31013e?logo=nextdotjs&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-31013e?logo=nextdotjs&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/React-31013e?logo=react&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-31013e?logo=typescript&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-31013e?logo=tailwindcss&logoColor=fff" />
@@ -86,13 +86,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://custom-icon-badges.demolab.com/badge/Ethers.js-31013e?logo=ethereum&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Solana%20JS-31013e?logo=solana&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Solana%20Web3.js-31013e?logo=solana&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Wagmi-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Viem-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/RainbowKit-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Radix%20UI-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React%20Query-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Zustand-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Zod-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Axios-31013e?logo=axios&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/QR%20Code-31013e?logo=qrcode&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Vercel-31013e?logo=vercel&logoColor=fff" />
@@ -114,7 +108,6 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://custom-icon-badges.demolab.com/badge/Gesture%20Handler-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Notifications-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/EAS-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-31013e?logo=react&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Vite-31013e?logo=vite&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-31013e?logo=tailwindcss&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-31013e?logo=nodedotjs&logoColor=fff" />
