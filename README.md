@@ -95,6 +95,8 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://custom-icon-badges.demolab.com/badge/Rate%20Limit-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/CORS-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/dotenv-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Firebase-31013e?logo=firebase&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Supabase-31013e?logo=supabase&logoColor=fff" />
 </p>
 
 ### 📱 Mobile
@@ -115,7 +117,6 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 ### 🤖 AI
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/AI-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/ComfyUI-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/A1111-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Stable%20Diffusion-31013e?logoColor=fff" />
