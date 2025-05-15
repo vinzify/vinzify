@@ -1,7 +1,7 @@
 <!-- Animated SVG Header Placeholder -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://via.placeholder.com/1200x350/31013e/dae5f1?text=Animated+SVG+Header+Placeholder" alt="Animated SVG Header" width="100%" />
-</p>
+</p> -->
 
 ---
 
@@ -142,7 +142,7 @@
 
 ---
 
-> _"Design is intelligence made visible."_ – Alina Wheeler
+> _"Good design is obvious. Great design is transparent."
 
 ---
 
