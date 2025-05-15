@@ -23,11 +23,11 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vincenzoromeo"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-31013e?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://github.com/twinalien"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-31013e?logo=github-white&logoColor=fff" /></a>
+  <a href="https://github.com/twinalien"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
   <a href="https://x.com/vinzify"><img src="https://custom-icon-badges.demolab.com/badge/X%20(Twitter)-31013e?logo=x-white&logoColor=fff" /></a>
   <a href="https://t.me/alienzcc"><img src="https://custom-icon-badges.demolab.com/badge/Telegram-31013e?logo=telegram-white&logoColor=fff" /></a>
-  <a href="https://be.net/twinalien"><img src="https://custom-icon-badges.demolab.com/badge/Behance-31013e?logo=behance-white&logoColor=fff" /></a>
-  <a href="https://vcreative.it/portfolio"><img src="https://custom-icon-badges.demolab.com/badge/Frontend%20Portfolio-31013e?logo=internet-explorer-white&logoColor=fff" /></a>
+  <a href="https://be.net/twinalien"><img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" /></a>
+  <a href="https://vcreative.it/portfolio"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" /></a>
 </p>
 
 ---
