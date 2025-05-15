@@ -44,6 +44,7 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://img.shields.io/badge/Figma-31013e?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Cinema%204D-31013e?style=flat-square&logo=maxon&logoColor=white" />
   <img src="https://img.shields.io/badge/Stable%20Diffusion-31013e?style=flat-square&logoColor=white" />
+   <img src="https://img.shields.io/badge/ComfyUI-31013e?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Rive.app-31013e?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Spline-31013e?style=flat-square&logoColor=white" />
 </p>
