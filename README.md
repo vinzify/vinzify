@@ -36,54 +36,73 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 
 ### 🎨 Design & Creative
 <p>
-  <img src="https://img.shields.io/badge/UI/UX-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prototyping-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31013e?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-31013e?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-31013e?style=flat-square&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-31013e?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cinema%204D-31013e?style=flat-square&logo=maxon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-31013e?style=flat-square&logoColor=white" />
-   <img src="https://img.shields.io/badge/ComfyUI-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rive.app-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spline-31013e?style=flat-square&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/UI/UX-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Prototyping-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-31013e?logo=adobephotoshop&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-31013e?logo=adobeillustrator&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-31013e?logo=adobexd&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20InDesign-31013e?logo=adobeindesign&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Premiere-31013e?logo=adobepremierepro&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-31013e?logo=adobeaftereffects&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CorelDRAW-31013e?logo=coreldraw&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Cinema%204D-31013e?logo=maxon&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/3D%20Studio%20Max-31013e?logo=3dsmax&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Stable%20Diffusion-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ComfyUI-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Rive.app-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Spline-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Packaging-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Creative%20Strategy-31013e?logoColor=fff" />
 </p>
 
 ### 💻 Frontend & Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-31013e?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-31013e?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-31013e?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-31013e?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-31013e?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-31013e?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-31013e?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-31013e?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swiper-31013e?style=flat-square&logo=swiper&logoColor=white" />
-  <img src="https://img.shields.io/badge/i18next-31013e?style=flat-square&logo=i18next&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-31013e?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prestashop-31013e?style=flat-square&logo=prestashop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joomla-31013e?style=flat-square&logo=joomla&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-31013e?logo=html5&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-31013e?logo=css3&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-31013e?logo=javascript&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-31013e?logo=typescript&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React-31013e?logo=react&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-31013e?logo=nextdotjs&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-31013e?logo=tailwindcss&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vite-31013e?logo=vite&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React%20Router-31013e?logo=reactrouter&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/RainbowKit-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Wagmi-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Radix%20UI-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React%20Query-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Zustand-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Zod-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/i18next-31013e?logo=i18next&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Framer%20Motion-31013e?logo=framer&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Swiper-31013e?logo=swiper&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/WordPress-31013e?logo=wordpress&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Prestashop-31013e?logo=prestashop&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Joomla-31013e?logo=joomla&logoColor=fff" />
 </p>
 
 ### 🧑‍💻 Backend & Blockchain
 <p>
-  <img src="https://img.shields.io/badge/Node.js-31013e?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-31013e?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-31013e?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethers.js-31013e?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana%20Web3.js-31013e?style=flat-square&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wagmi-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Viem-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/RainbowKit-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix%20UI-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-31013e?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-31013e?style=flat-square&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/QR%20Code-31013e?style=flat-square&logo=qrcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-31013e?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-31013e?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-31013e?logo=nodedotjs&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Express-31013e?logo=express&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Redis-31013e?logo=redis&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Ethers.js-31013e?logo=ethereum&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Solana%20JS-31013e?logo=solana&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Solana%20Web3.js-31013e?logo=solana&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Wagmi-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Viem-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/RainbowKit-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Radix%20UI-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React%20Query-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Zustand-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Zod-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Axios-31013e?logo=axios&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/QR%20Code-31013e?logo=qrcode&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-31013e?logo=vercel&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Render-31013e?logo=render&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Helmet-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Rate%20Limit-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CORS-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/dotenv-31013e?logoColor=fff" />
 </p>
 
 ---
