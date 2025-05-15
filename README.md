@@ -38,17 +38,16 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/UI/UX-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Prototyping-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Figma-31013e?logo=figma&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Figma%20Jam-31013e?logo=figma&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-31013e?logo=adobephotoshop&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-31013e?logo=adobeillustrator&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20XD-31013e?logo=adobexd&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20InDesign-31013e?logo=adobeindesign&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20Premiere-31013e?logo=adobepremierepro&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Adobe%20After%20Effects-31013e?logo=adobeaftereffects&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CorelDRAW-31013e?logo=coreldraw&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Cinema%204D-31013e?logo=maxon&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/3D%20Studio%20Max-31013e?logo=3dsmax&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Stable%20Diffusion-31013e?logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/ComfyUI-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Rive.app-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Spline-31013e?logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Packaging-31013e?logoColor=fff" />
@@ -56,17 +55,13 @@ My passion and expertise infuse every project I take on, ensuring that digital i
   <img src="https://custom-icon-badges.demolab.com/badge/Sketch-31013e?logo=sketch&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/InVision-31013e?logo=invision&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Affinity%20Designer-31013e?logo=affinitydesigner&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Figma-31013e?logo=figma&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Figma%20Jam-31013e?logo=figma&logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CorelDRAW-31013e?logo=coreldraw&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Procreate-31013e?logo=procreate&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Miro-31013e?logo=miro&logoColor=fff" />
 </p>
 
 ### 💻 Frontend & Web
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Next.js%2015-31013e?logo=nextdotjs&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React%2019-31013e?logo=react&logoColor=fff" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React%2018-31013e?logo=react&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/React-31013e?logo=react&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-31013e?logo=typescript&logoColor=fff" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-31013e?logo=tailwindcss&logoColor=fff" />
@@ -128,6 +123,18 @@ My passion and expertise infuse every project I take on, ensuring that digital i
 ### 🤖 AI
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/AI-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ComfyUI-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/A1111-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Stable%20Diffusion-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Bolt-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/V0-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Ollama-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Midjourney-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Copilot-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Gemini-31013e?logoColor=fff" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Claude-31013e?logoColor=fff" />
 </p>
 
 ---
