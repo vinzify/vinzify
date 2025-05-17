@@ -136,10 +136,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzify&theme=radical" alt="GitHub Streak" height="180" />
 </p>
 
-<!-- Snake Game Contribution Graph -->
+<!-- Snake Game Contribution Graph
 <p align="center">
   <img src="https://github.com/vinzify/vinzify/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 ---
 
