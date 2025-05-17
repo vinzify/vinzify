@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vincenzoromeo"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-31013e?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://github.com/twinalien"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-31013e?logo=github-white&logoColor=fff" /></a>
+  <a href="https://github.com/vinzify"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-31013e?logo=github-white&logoColor=fff" /></a>
   <a href="https://x.com/vinzify"><img src="https://custom-icon-badges.demolab.com/badge/X%20(Twitter)-31013e?logo=x-white&logoColor=fff" /></a>
   <a href="https://t.me/alienzcc"><img src="https://custom-icon-badges.demolab.com/badge/Telegram-31013e?logo=telegram-white&logoColor=fff" /></a>
   <a href="https://be.net/twinalien"><img src="https://custom-icon-badges.demolab.com/badge/Behance-31013e?logo=behance-white&logoColor=fff" /></a>
@@ -133,12 +133,12 @@
 ## 📊 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twinalien&theme=radical" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzify&theme=radical" alt="GitHub Streak" height="180" />
 </p>
 
 <!-- Snake Game Contribution Graph -->
 <p align="center">
-  <img src="https://github.com/twinalien/twinalien/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/vinzify/vinzify/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
