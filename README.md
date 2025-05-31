@@ -9,16 +9,7 @@
 
 > Creative technologist blending design, code, and AI. From Sicily to Amsterdam, I craft unforgettable digital experiences—web, apps, games, and brands. Always learning, always building. 
 
-[🌐 vcreative.it](https://vcreative.it) &nbsp;|&nbsp; [✉️ vinz@vcreative.it](mailto:vinz@vcreative.it)
-
----
-
-## 🚀 Social & Contact
-
-<p align="left">
-  <a href="https://x.com/vinzbyte"><img src="https://custom-icon-badges.demolab.com/badge/X%20(Twitter)-31013e?logo=x-white&logoColor=fff" /></a>
-  <a href="https://t.me/alienzcc"><img src="https://custom-icon-badges.demolab.com/badge/Telegram-31013e?logo=telegram-white&logoColor=fff" /></a>
-</p>
+[✉️ vinzify@gmail.com](mailto:vinzify@gmail.com)
 
 ---
 
