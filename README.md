@@ -18,10 +18,6 @@
 <p align="left">
   <a href="https://x.com/vinzbyte"><img src="https://custom-icon-badges.demolab.com/badge/X%20(Twitter)-31013e?logo=x-white&logoColor=fff" /></a>
   <a href="https://t.me/alienzcc"><img src="https://custom-icon-badges.demolab.com/badge/Telegram-31013e?logo=telegram-white&logoColor=fff" /></a>
-  <a href="https://be.net/twinalien"><img src="https://custom-icon-badges.demolab.com/badge/Behance-31013e?logo=behance-white&logoColor=fff" /></a>
-  <a href="mailto:vinz@vcreative.it"><img src="https://custom-icon-badges.demolab.com/badge/Email-31013e?logo=gmail&logoColor=fff" /></a>
-  <a href="https://vcreative.it/portfolio"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio%20Frontend-31013e?logo=internet-explorer-white&logoColor=fff" /></a>
-
 </p>
 
 ---
