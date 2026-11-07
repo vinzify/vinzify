@@ -17,19 +17,31 @@
   <a href="mailto:vinzify@gmail.com"><strong>LET'S TALK ↗</strong></a>
 </p>
 
-I design the interface, build the prototype, and work through the details that make it useful. My projects sit between product design, creative coding, and practical AI tools.
+I design the interface, build the prototype, and work through the details that make it useful. My projects sit between product design, creative coding, and practical AI tools — from finding a coding session to keeping track of the allowance left to use it.
 
 ## Open-sourced projects
+
+<a href="https://github.com/vinzify/AIllowance-waybar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-aillowance-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-aillowance-light.svg" />
+    <img src="assets/project-aillowance-dark.svg" alt="AIllowance — coloured Codex and Gemini allowance chips for Waybar, with credits and reset details. Illustration with sample values." width="100%" />
+  </picture>
+</a>
+
+**AIllowance for Waybar** brings Codex and Gemini / Antigravity allowances into the Linux status bar. Each quota changes colour independently; hover for exact balances, reset times, and account details. Stale or missing readings stay clearly marked. Open source under the MIT license.
+
+[Explore AIllowance →](https://github.com/vinzify/AIllowance-waybar) &nbsp;·&nbsp; [Latest release](https://github.com/vinzify/AIllowance-waybar/releases/latest) &nbsp;·&nbsp; [See the interface](https://github.com/vinzify/AIllowance-waybar#readme)
 
 <a href="https://github.com/vinzify/Agent-Session-Hub">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-session-hub-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/project-session-hub-light.svg" />
-    <img src="assets/project-session-hub-dark.svg" alt="Agent Session Hub — a cross-platform Rust session browser for Codex CLI, Claude Code, and OpenCode." width="100%" />
+    <img src="assets/project-session-hub-dark.svg" alt="Agent Session Hub — a cross-platform Rust session browser for Codex CLI, Claude Code, OpenCode, and Google Antigravity CLI." width="100%" />
   </picture>
 </a>
 
-Find, preview, and resume local coding sessions from one terminal picker. Workspace grouping, connected agent trees, and storage cleanup keep a growing history manageable. [Explore Agent Session Hub →](https://github.com/vinzify/Agent-Session-Hub)
+Find, preview, and resume **Codex CLI, Claude Code, OpenCode, and Google Antigravity CLI** sessions from one terminal picker. Workspace grouping, connected agent trees, and storage cleanup keep a growing history manageable. [Explore Agent Session Hub →](https://github.com/vinzify/Agent-Session-Hub)
 
 <table>
   <tr>

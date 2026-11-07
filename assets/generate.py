@@ -132,10 +132,10 @@ def hero(theme):
 
 def session_hub(theme):
     svg = SVG(960, 224, "Agent Session Hub",
-              "An open-source Rust session browser for Codex CLI, Claude Code, and OpenCode. Terminal illustration with fictional sessions.", theme)
+              "An open-source Rust session browser for Codex CLI, Claude Code, OpenCode, and Google Antigravity CLI. Terminal illustration with fictional sessions.", theme)
     c = svg.c
     svg.frame()
-    svg.text(30, 34, "01 / OPEN-SOURCED PROJECT", 11, c["muted"], "mono", 0.4)
+    svg.text(30, 34, "02 / CODING WORKFLOWS", 11, c["muted"], "mono", 0.4)
     svg.text(30, 102, "Agent Session Hub", 53, c["ink"], "display")
     svg.text(32, 140, "Your coding sessions. One command away.", 19, c["muted"])
     svg.line(32, 177, 60, 177, c["accent"], 3)
@@ -152,6 +152,34 @@ def session_hub(theme):
     svg.save(f"project-session-hub-{theme}.svg")
 
 
+def aillowance(theme):
+    svg = SVG(960, 248, "AIllowance for Waybar",
+              "Codex and Gemini allowances, credits, and reset details in your Linux status bar. Illustrated sample values, not live account statistics.", theme)
+    c = svg.c
+    svg.frame()
+    svg.text(30, 34, "01 / NEW RELEASE", 11, c["muted"], "mono", 0.4)
+    svg.text(30, 100, "AIllowance", 57, c["ink"], "display")
+    svg.text(32, 136, "Your AI allowance, at a glance.", 19, c["muted"])
+    svg.text(695, 34, "LINUX / WAYBAR / MIT", 11, c["muted"], "mono", 0.3)
+    svg.rect(30, 166, 900, 46, c["panel"], 6, c["line"])
+    svg.circle(49, 189, 4, c["coral"])
+    svg.text(62, 193, "Codex", 12, c["ink"], "mono")
+    svg.rect(112, 176, 87, 26, c["bg"], 3)
+    svg.text(121, 193, "Week 12%", 12, c["coral"], "mono")
+    svg.text(213, 193, "1.2k credits", 12, c["muted"], "mono")
+    svg.text(322, 193, "2 resets", 12, c["muted"], "mono")
+    svg.line(410, 178, 410, 200, c["line"])
+    svg.circle(433, 189, 4, c["accent"])
+    svg.text(447, 193, "Gemini", 12, c["ink"], "mono")
+    for x, label, col in [(508, "5h 100%", "mint"), (598, "Week 76%", "mint"), (695, "Argon 32%", "accent")]:
+        svg.rect(x, 176, 84 if col == "mint" else 92, 26, c["bg"], 3)
+        svg.text(x + 7, 193, label, 12, c[col], "mono")
+    svg.text(807, 193, "20 credits", 12, c["muted"], "mono")
+    svg.text(32, 232, "INDEPENDENT QUOTA COLOURS / DETAILS ON HOVER", 10, c["muted"], "mono", 0.2)
+    svg.text(811, 232, "SAMPLE DATA", 10, c["muted"], "mono", 0.2)
+    svg.save(f"project-aillowance-{theme}.svg")
+
+
 def desktop_project(name, theme):
     is_git = name == "gitpop"
     title = "GitPop" if is_git else "PhrasePoP"
@@ -160,7 +188,7 @@ def desktop_project(name, theme):
               else "A desktop assistant for rewriting text and drafting replies.", theme)
     c = svg.c
     svg.frame()
-    svg.text(24, 31, "02 / DEVELOPER TOOLS" if is_git else "03 / EVERYDAY AI", 10, c["muted"], "mono", 0.2)
+    svg.text(24, 31, "03 / DEVELOPER TOOLS" if is_git else "04 / EVERYDAY AI", 10, c["muted"], "mono", 0.2)
     svg.text(24, 91, title, 46, c["ink"], "display")
     svg.text(26, 124, "A smaller surface for Git." if is_git else "Better words. Less friction.", 17, c["muted"])
     svg.text(26, 174, "TAURI / RUST / REACT", 10, c["muted"], "mono", 0.3)
@@ -184,6 +212,7 @@ def desktop_project(name, theme):
 
 for theme in THEMES:
     hero(theme)
+    aillowance(theme)
     session_hub(theme)
     desktop_project("gitpop", theme)
     desktop_project("phrasepop", theme)
