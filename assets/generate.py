@@ -135,7 +135,7 @@ def session_hub(theme):
               "An open-source Rust session browser for Codex CLI, Claude Code, OpenCode, and Google Antigravity CLI. Terminal illustration with fictional sessions.", theme)
     c = svg.c
     svg.frame()
-    svg.text(30, 34, "02 / CODING WORKFLOWS", 11, c["muted"], "mono", 0.4)
+    svg.text(30, 34, "01 / CODING WORKFLOWS", 11, c["muted"], "mono", 0.4)
     svg.text(30, 102, "Agent Session Hub", 53, c["ink"], "display")
     svg.text(32, 140, "Your coding sessions. One command away.", 19, c["muted"])
     svg.line(32, 177, 60, 177, c["accent"], 3)
@@ -157,7 +157,7 @@ def aillowance(theme):
               "Codex and Gemini allowances, credits, and reset details in your Linux status bar. Illustrated sample values, not live account statistics.", theme)
     c = svg.c
     svg.frame()
-    svg.text(30, 34, "01 / NEW RELEASE", 11, c["muted"], "mono", 0.4)
+    svg.text(30, 34, "02 / NEW RELEASE", 11, c["muted"], "mono", 0.4)
     svg.text(30, 100, "AIllowance", 57, c["ink"], "display")
     svg.text(32, 136, "Your AI allowance, at a glance.", 19, c["muted"])
     svg.text(695, 34, "LINUX / WAYBAR / MIT", 11, c["muted"], "mono", 0.3)
