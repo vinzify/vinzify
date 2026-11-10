@@ -17,7 +17,7 @@
   <a href="mailto:vinzify@gmail.com"><strong>LET'S TALK ↗</strong></a>
 </p>
 
-I design the interface, build the prototype, and work through the details that make it useful. My projects sit between product design, creative coding, and practical AI tools — from finding a coding session to keeping track of the allowance left to use it.
+I design the interface, build the prototype, and work through the details that make it useful. My projects sit between product design, creative coding, and practical AI tools — from navigating coding histories to keeping AI usage visible.
 
 ## Open-sourced projects
 
@@ -30,6 +30,10 @@ I design the interface, build the prototype, and work through the details that m
 </a>
 
 Find, preview, and resume **Codex CLI, Claude Code, OpenCode, and Google Antigravity CLI** sessions from one terminal picker. Workspace grouping, connected agent trees, and storage cleanup keep a growing history manageable. [Explore Agent Session Hub →](https://github.com/vinzify/Agent-Session-Hub)
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/vinzify/badge.svg)](https://hub.xerj.org/contributors/vinzify)
+
+The Antigravity integration was selected for the [XERJ Corpus Hub](https://hub.xerj.org/corpus/vinzify--agent-session-hub) as a reference implementation for coding agents.
 
 <a href="https://github.com/vinzify/AIllowance-waybar">
   <picture>
@@ -50,10 +54,10 @@ Find, preview, and resume **Codex CLI, Claude Code, OpenCode, and Google Antigra
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/project-gitpop-dark.svg" />
           <source media="(prefers-color-scheme: light)" srcset="assets/project-gitpop-light.svg" />
-          <img src="assets/project-gitpop-dark.svg" alt="GitPop — AI-assisted Git workflows from the Windows context menu." width="100%" />
+          <img src="assets/project-gitpop-dark.svg" alt="GitPop — a cross-platform Git workbench with optional AI-assisted commit messages." width="100%" />
         </picture>
       </a>
-      <p>Review changes, generate AI-assisted commit messages, and commit or push from a focused Windows context-menu app.</p>
+      <p>A cross-platform Git workbench for reviewing diffs, choosing files, and committing or pushing deliberately. Optional AI-assisted commit messages. Version 1.5 is available as a preview.</p>
       <a href="https://github.com/vinzify/gitpop"><strong>Explore GitPop →</strong></a>
     </td>
     <td width="50%" valign="top">
